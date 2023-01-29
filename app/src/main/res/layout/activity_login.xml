@@ -38,7 +38,7 @@
             android:hint="@string/hintCorreo"
             android:fontFamily="@font/cabin"
             android:textSize="20sp"
-            android:textColorHint="@color/marron"
+            android:textColorHint="@color/marron_sombra"
             />
 
         <requestFocus/>
@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:hint="@string/hintPass"
             android:fontFamily="@font/cabin"
-            android:textColorHint="@color/marron"
+            android:textColorHint="@color/marron_sombra"
             android:textSize="20sp"
             android:backgroundTint="@color/white"
             android:inputType="textPassword"
